@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Packaging
+build/
+dist/
+*.spec
+
+# Local application configurations and caches
+config.json
+*.tmp
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
